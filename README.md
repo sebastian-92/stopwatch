@@ -38,5 +38,5 @@
 <!-- FOOTER -->
 <h6 align="center">
   Clockwork is made to work on Chrome. No other browser is supported.
-  <i>© 2022 Redstone Network</i>
+  <i>© 2024 and beyond, Redstone Network</i>
 </h6>
